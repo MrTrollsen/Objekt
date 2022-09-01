@@ -10,7 +10,7 @@ using System;
         public void attack2(Knight target2)
         {
             target2.knightHealth -= giantAttack;
-            Console.WriteLine(giantName + "attacks" + target2.knightName);
+            Console.WriteLine(giantName + " attacks " + target2.knightName);
             Console.WriteLine(target2.knightName + " Health is " + target2.knightHealth);
         }
 
