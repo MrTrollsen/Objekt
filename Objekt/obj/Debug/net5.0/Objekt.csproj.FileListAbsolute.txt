@@ -1,0 +1,16 @@
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.exe
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.deps.json
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.runtimeconfig.json
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.runtimeconfig.dev.json
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.dll
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\bin\Debug\net5.0\Objekt.pdb
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.csproj.AssemblyReference.cache
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.AssemblyInfoInputs.cache
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.AssemblyInfo.cs
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.csproj.CoreCompileInputs.cache
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.dll
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\refint\Objekt.dll
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.pdb
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\Objekt.genruntimeconfig.cache
+C:\Users\lowenbergpettersson\Desktop\CskarpObject\Objekt\Objekt\obj\Debug\net5.0\ref\Objekt.dll

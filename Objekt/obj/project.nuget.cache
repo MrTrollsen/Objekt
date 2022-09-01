@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJrhKRYDSQAWl4P5+S7tDZuMG43xG2P5UmmpDCxgv3bAf8RtbgQ3g5mTbVh49svrHZlmOfesouMOUQxrM8/2Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lowenbergpettersson\\Desktop\\CskarpObject\\Objekt\\Objekt\\Objekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lowenbergpettersson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
